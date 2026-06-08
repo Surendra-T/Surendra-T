@@ -1,4 +1,4 @@
-<h1 align="center">Hola! I'm Surendra Tripathi</h1>
+<h1 align="center">Hello World! I'm Surendra Tripathi</h1>
 <h3 align="center">Cloud Architect | AI Systems & Local LLMs</h3>
 
 <p align="center"> 
