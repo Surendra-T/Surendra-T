@@ -10,17 +10,7 @@
 - 💬 Ask me about **Cloud Architecture, Next.js, FastAPI, or building real-life tools**.
 - 📫 Reach out to me: **tripathisurendra886@gmail.com**
 
-<br>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Surendra-T&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surendra-T&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-##  Languages & Tools
+## Languages & Tools
 
 ### Languages
 <p align="left">
