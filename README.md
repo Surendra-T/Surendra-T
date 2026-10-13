@@ -1,14 +1,15 @@
 <h1 align="center">Hello World! I'm Surendra Tripathi</h1>
 <h3 align="center">Cloud Architect | AI Systems & Local LLMs</h3>
 
-  <!--<a href="https://leetcode.com/u/Surendra-T/" target="_blank">-->
-    <!--<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />-->
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Surendra-T&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 - 🌱 I’m currently focusing on **DSA, AI, and building Local LLMs & Agentic workflows**.
 - 💬 Ask me about **Cloud Architecture, Next.js, FastAPI, or building real-life tools**.
 - 📫 Reach out to me: **tripathisurendra886@gmail.com**
+
+<br>
 
 ## Languages & Tools
 
