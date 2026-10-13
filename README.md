@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I'm Surendra Tripathi</h1>
-<h3 align="center">Cloud Architect | AI Systems & Local LLMs</h3>
+<h3 align="center">Developer | AI Systems & Local LLMs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Surendra-T&color=blue&style=flat" alt="Profile Views" />
